@@ -4,6 +4,7 @@
 <div align="center">
 <img width="700" alt="image" src="https://github.com/flip-404/2022-SSU-Contest-Front/assets/87515256/fbbd8a20-e7f4-4ab8-b895-516b2df7b61c">
 </div>
+
 # 사용 기술 및 라이브러리
 Web: ReactJS, react-speech-kit, Tesseract.js, SCSS <br/>
 Server: Django, Gunicorn, SQLite<br/>
